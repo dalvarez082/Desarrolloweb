@@ -1,0 +1,35 @@
+
+     
+    body{
+        width:1000px;
+        margin:0px auto;  
+            
+    }
+
+    .info{
+        margin-left: 40px;
+        margin-top: 25px;
+        display: inline-block;
+    }
+    
+    div.avatar {
+        
+        height: 200px;
+        width: 200px;        
+        background-repeat: no-repeat;
+        background-position: 50%;
+        border-radius: 50%;
+        background-size: 100% auto;
+    }
+
+    div.right{
+        width: 45%;
+        float: right;
+    }
+
+    div.left{
+        width: 45%;
+        float: left;
+    }
+
+   
